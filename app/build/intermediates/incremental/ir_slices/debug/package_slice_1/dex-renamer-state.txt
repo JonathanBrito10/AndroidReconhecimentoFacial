@@ -1,0 +1,4 @@
+#Fri Sep 20 13:43:47 BRT 2019
+base.0=C\:\\Users\\Jonathan.Brito\\Music\\AndroidReconhecimentoFacial\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex

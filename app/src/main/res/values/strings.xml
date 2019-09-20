@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Reconhecimento Facial Android</string>
+    <string name="permission_warning">Para continuar habilite a câmera e o armazenamento</string>
+    <string name="dismiss">Dispensar</string>
+    <string name="unknown">Desconhecido</string>
+    <string name="texto_tutorial">Para fazer o reconhecimento Facial
+        Precisamos de 25 fotos do seu rosto, Iremos iniciar
+        o App com a Câmera e ao fazer a caputura dessas fotos
+        tente movimentar a cabeça para tirar a fotos de diferente ângulos</string>
+</resources>

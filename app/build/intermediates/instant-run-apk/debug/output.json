@@ -1,0 +1,1 @@
+[{"outputType":{"type":"APK"},"apkInfo":{"type":"FULL_SPLIT","splits":[{"filterType":"ABI","value":"armeabi"}],"versionCode":1,"versionName":"1.0","enabled":true,"filterName":"armeabi","outputFile":"app-armeabi-debug.apk","fullName":"armeabiDebug","baseName":"armeabi-debug"},"path":"app-armeabi-debug.apk","properties":{}}]
